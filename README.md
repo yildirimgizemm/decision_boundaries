@@ -1,2 +1,2 @@
 # decision_boundaries
-Visualizing decision boundaries and its relation with model performance
+The aim of the project is visualizing decision boundaries and investigating its relation with model performance.
